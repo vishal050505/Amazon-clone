@@ -21,7 +21,7 @@ Folder Structure:
 │── index.html          # Main HTML file  
 │── style.css          # CSS styles  
 │── images/            # Folder for images (e.g., logo, product images, hero section)  
-│── README.md          # Project documentation  
+│── README.md          # Project documentations
 
 Setup Instructions:
 	1.	Download or Clone the Repository
@@ -45,4 +45,4 @@ License
 
 This project is for educational purposes and does not replicate Amazon’s full functionality.
 
-Let me know if you need any modifications!
+
