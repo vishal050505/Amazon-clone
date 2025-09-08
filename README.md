@@ -32,10 +32,6 @@ git clone https://github.com/your-username/amazon-clone.git
 	2.	Open in Browser
 	•	Simply open index.html in any web browser.
 
-Screenshots:
-
-(Include relevant screenshots here if available.)
-
 Future Improvements:
 	•	Add JavaScript for interactive elements like dropdowns and a working search bar.
 	•	Implement responsive design for mobile devices.
