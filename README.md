@@ -23,14 +23,6 @@ Folder Structure:
 │── images/            # Folder for images (e.g., logo, product images, hero section)  
 │── README.md          # Project documentations
 
-Setup Instructions:
-	1.	Download or Clone the Repository
-
-git clone https://github.com/your-username/amazon-clone.git
-
-
-	2.	Open in Browser
-	•	Simply open index.html in any web browser.
 
 Future Improvements:
 	•	Add JavaScript for interactive elements like dropdowns and a working search bar.
